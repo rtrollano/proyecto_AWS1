@@ -1,4 +1,0 @@
-Creado desde local
-
-Nueva línea desde git
-2) Paco modifica fichero
